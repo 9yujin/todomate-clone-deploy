@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/todomate-clone-deploy/static/css/main.d56bca4e.css",
-    "main.js": "/todomate-clone-deploy/static/js/main.9a056248.js",
+    "main.js": "/todomate-clone-deploy/static/js/main.ae55bd32.js",
     "static/media/check.svg": "/todomate-clone-deploy/static/media/check.3c98107e7aa97a12ff8f60ca482b2df5.svg",
     "index.html": "/todomate-clone-deploy/index.html",
     "static/media/todo-check.svg": "/todomate-clone-deploy/static/media/todo-check.12db8309eaf42db8568b5a6d9729a107.svg",
     "static/media/three-dots.svg": "/todomate-clone-deploy/static/media/three-dots.07aa887542fcb0717ed10e41693f108e.svg",
     "main.d56bca4e.css.map": "/todomate-clone-deploy/static/css/main.d56bca4e.css.map",
-    "main.9a056248.js.map": "/todomate-clone-deploy/static/js/main.9a056248.js.map"
+    "main.ae55bd32.js.map": "/todomate-clone-deploy/static/js/main.ae55bd32.js.map"
   },
   "entrypoints": [
     "static/css/main.d56bca4e.css",
-    "static/js/main.9a056248.js"
+    "static/js/main.ae55bd32.js"
   ]
 }
